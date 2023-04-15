@@ -92,7 +92,7 @@
                         <div class="card">
                             <div class="card-body">
 
-                                <a class="btn btn-primary btn-block" href="pregunta.html">
+                                <a class="btn btn-primary btn-block" href="pregunta">
                                     Preguntar
                                 </a>
 

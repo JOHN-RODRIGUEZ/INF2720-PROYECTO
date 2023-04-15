@@ -58,7 +58,7 @@
 
     <?php
     require_once 'modulos/header.php';
-    if($vista == 'preguntas' || $vista == 'perfil')
+    if($vista == 'preguntas' || $vista == 'perfil' || $vista == 'registro' || $vista == 'pregunta')
     {
       include_once "modulos/".$vista.".php";
     }else{

@@ -16,7 +16,7 @@
                         <a href="/" class="nav-link">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a href="view/modulos/perfil.php" class="nav-link">Perfil</a>
+                        <a href="perfil" class="nav-link">Perfil</a>
                     </li>
     
     
